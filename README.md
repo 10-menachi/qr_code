@@ -23,8 +23,8 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/10-menachi/qr_code)
-- Live Site URL: [Add live site URL here](https://10-menachi.github.io/qr_code/)
+- Solution URL: [Code](https://github.com/10-menachi/qr_code)
+- Live Site URL: [Live](https://10-menachi.github.io/qr_code/)
 
 ## My process
 
@@ -37,5 +37,5 @@ This is a screenshot of my solution.
 ## Author
 
 - Website - [Christian Wamalwa](https://10-menachi.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/10-menachi)
+- Frontend Mentor - [@10-menachi](https://www.frontendmentor.io/profile/10-menachi)
 - Twitter - [@christian_timbe](https://www.twitter.com/christian_timbe)
